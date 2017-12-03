@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+git creates a repository for this directory.
+to save commit it is needed.

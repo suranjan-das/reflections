@@ -1,0 +1,7 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+viewing diff between two versions of a file
+shows us the code diff between this files.
+often when code does'nt work at some point
+of work flow we want to revert to the older versions
+and examine the diff of codes that leads to malfunction.
